@@ -6,6 +6,7 @@
 
 * [Java](#java)
 * [Algorithms](#algorithms)
+* [Data Structures](#data-structures)
 
 Solutions are coded in Java 8 and C
 
@@ -122,3 +123,9 @@ Solutions are coded in Java 8 and C
 |         Implementation        | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)|20| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java)|
 |         Implementation        | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|30| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Cavity%20Map/main.c)|
 |         Implementation        | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|20| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Almost%20Sorted/Solution.java)|
+
+# Data Structures
+
+|          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
+|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Implementation        | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Data%20Structures/Arrays/Arrays%20-%20DS/Solution.java)|
