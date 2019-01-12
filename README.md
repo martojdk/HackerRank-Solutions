@@ -5,6 +5,7 @@
 </p>
 
 * [Java](#java)
+* [Algorithms](#algorithms)
 
 Solutions are coded in Java 8 and C
 
@@ -12,7 +13,7 @@ Solutions are coded in Java 8 and C
 
 |          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                                |    3   | [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Introduction/Welcome%20to%20Java/Solution.java)
+|         Introduction        | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                                |    3   | [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Introduction/Welcome%20to%20Java/Solution.java)|
 |         Introduction        | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|5| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Introduction/Java%20Stdin%20and%20Stdout%20I/Solution.java)|
 |         Introduction        | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Introduction/Java%20If-Else/Solution.java)|
 |         Introduction        | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Introduction/Java%20Stdin%20and%20Stdout%20II/Solution.java)|
@@ -67,3 +68,8 @@ Solutions are coded in Java 8 and C
 |         Advanced        | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)|30| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Advanced/Java%20Lambda%20Expressions/Solution.java)|
 |         Advanced        | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)|30| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Advanced/Java%20MD5/Solution.java)|
 |         Advanced        | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|30| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)|
+
+#Algorithms
+|          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
+|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Warmup        | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)                                                |    3   | [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Solve%20me%20First/main.c)|
