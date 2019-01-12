@@ -70,6 +70,7 @@ Solutions are coded in Java 8 and C
 |         Advanced        | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|30| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)|
 
 #Algorithms
+
 |          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |         Warmup        | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)|1| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Solve%20me%20First/main.c)|
