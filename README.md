@@ -78,3 +78,4 @@ Solutions are coded in Java 8 and C
 |         Warmup        | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Compare%20%The%20Triplets/main.c)|
 |         Warmup        | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/A%20Very%20Big%20Sum/main.c)|
 |         Warmup        | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Diagonal%20Difference/main.c)|
+|         Warmup        | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Plus%20Minus/main.c)|
