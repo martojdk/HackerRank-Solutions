@@ -5,7 +5,7 @@
 </p>
 
 * [Java](#java)
-* [Algorithms](#algorithms)
+* [Algorithms](#Algorithms)
 
 Solutions are coded in Java 8 and C
 
@@ -81,3 +81,5 @@ Solutions are coded in Java 8 and C
 |         Warmup        | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Plus%20Minus/main.c)|
 |         Warmup        | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Staircase/main.c)|
 |         Warmup        | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Mini-Max%20Sum/main.c)|
+|         Warmup        | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles/main.c)|
+|         Warmup        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Time%20Conversion/main.c)|
