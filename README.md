@@ -20,3 +20,4 @@ Solutions are coded in Java 8 and C
 |         Introduction        | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Java%20Loops%20I/Solution.java)|
 |         Introduction        | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Java%20Loops%20II/Solution.java)|
 |         Introduction        | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Java%20Datatypes/Solution.java)|
+|         Introduction        | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Java%20End-of-file/Solution.java)|
