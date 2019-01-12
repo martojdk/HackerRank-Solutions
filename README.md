@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="www.hackerrank.com/martomptkv">
+    <a href="https://www.hackerrank.com/martomptkv">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
 </p>
@@ -87,3 +87,4 @@ Solutions are coded in Java 8 and C
 |         Implementation        | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Grading%20Students/main.c)|
 |         Implementation        | [Apple and Orange](https://www.hackerrank.com/challenges/grading/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Apple%20And%20Orange/Solution.java)|
 |         Implementation        | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|10| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Kangaroo/Solution.java)|
+|         Implementation        | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Between%20Two%20Sets/main.c)|
