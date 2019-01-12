@@ -5,7 +5,7 @@
 </p>
 
 * [Java](#java)
-* [Algorithms](#Algorithms)
+* [Algorithms](#algorithms)
 
 Solutions are coded in Java 8 and C
 
@@ -69,7 +69,7 @@ Solutions are coded in Java 8 and C
 |         Advanced        | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)|30| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Advanced/Java%20MD5/Solution.java)|
 |         Advanced        | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)|30| [Solution.java](https://github.com/martojdk/HackerRank-Solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)|
 
-#Algorithms
+# Algorithms
 
 |          Subdomain          |                                                         Challenge                                                        | Points |                                                                                         Solution                                                                                        |
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -82,4 +82,6 @@ Solutions are coded in Java 8 and C
 |         Warmup        | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Staircase/main.c)|
 |         Warmup        | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Mini-Max%20Sum/main.c)|
 |         Warmup        | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles/main.c)|
-|         Warmup        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Time%20Conversion/main.c)|
+|         Warmup        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|15| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Time%20Conversion/main.c)|
+|         Warmup        | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|15| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Time%20Conversion/main.c)|
+|         Implementation        | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Implementation/Grading%20Students/main.c)|
