@@ -80,3 +80,4 @@ Solutions are coded in Java 8 and C
 |         Warmup        | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Diagonal%20Difference/main.c)|
 |         Warmup        | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Plus%20Minus/main.c)|
 |         Warmup        | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Staircase/main.c)|
+|         Warmup        | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|10| [main.c](https://github.com/martojdk/HackerRank-Solutions/blob/master/Algorithms/Warmup/Mini-Max%20Sum/main.c)|
